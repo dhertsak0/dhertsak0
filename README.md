@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Dmytro. I am Python backend developer
+#### My name is Dmytro. I am Python backend developer, studying computer science.
 Contact with me:
 
 <a href="mailto:gertsak1997@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -34,4 +34,4 @@ Contact with me:
 
 Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ston1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhertsak0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
